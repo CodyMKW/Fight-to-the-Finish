@@ -1,5 +1,5 @@
 # Fight to the Finish
-![alt text](http://via.placeholder.com/640x384)
+![alt text](https://github.com/CodyMKW/Fight-to-the-Finish/blob/master/screenshots/title-screen.png?raw=true)
 
 A game named after the best Smash Bros tournament series.
 
